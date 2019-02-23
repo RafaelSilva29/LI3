@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=c1\ c2
+comment0.target=int\ compare(Cliente,\ Cliente)
+comment0.text=\n\ Comparador\ de\ Clientes\ (alfabeticamente)\n\ @param\ \ \ c1\ \ Primeiro\ Cliente\ a\ comparar\n\ @param\ \ \ c2\ \ Segundo\ Cliente\ a\ comparar\ \n
+numComments=1

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cliente()
+comment0.text=\n\ Construtor\ de\ Cliente\ vazio\n
+comment1.params=cliente
+comment1.target=Cliente(java.lang.String)
+comment1.text=\n\ Construtor\ de\ Cliente\ a\ partir\ de\ uma\ string\n\ @param\ \ \ cliente\ \ \ \ \ String\ com\ o\ nome\ do\ cliente\n
+comment2.params=c
+comment2.target=Cliente(Cliente)
+comment2.text=\n\ Construtor\ de\ Cliente\ a\ partir\ de\ outro\ Cliente\n\ @param\ \ \ c\ \ \ Cliente\ j\u00E1\ existente\n
+comment3.params=
+comment3.target=java.lang.String\ getCliente()
+comment3.text=\n\ Devolve\ o\ Nome\ do\ Cliente\n\ @return\ \ cliente\ String\ com\ o\ nome\ do\ Cliente\n
+comment4.params=
+comment4.target=Cliente\ clone()
+comment4.text=\n\ Cria\ uma\ copia\ do\ Cliente\n
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\n\ Compara\ clientes\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Transforma\ um\ cliente\ numa\ string\n
+numComments=7

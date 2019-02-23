@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CatalogoClientes()
+comment0.text=\n\ Construtor\ do\ Catalogo\ de\ Clientes\ vazio\n
+comment1.params=c
+comment1.target=CatalogoClientes(CatalogoClientes)
+comment1.text=\n\ Construtor\ do\ Catalogo\ de\ Clientes\ a\ partir\ de\ outro\ Catalogo\ de\ Clientes\n\ @param\ \ \ c\ \ \ Catalogo\ de\ Clientes\ j\u00E1\ existente\n
+comment2.params=catClientes
+comment2.target=CatalogoClientes(java.util.List)
+comment2.text=\n\ Construtor\ do\ Catalogo\ de\ Clientes(organizado)\ a\ partir\ de\ uma\ lista\ de\ Clientes\n\ @param\ \ \ catClientes\ Lista\ de\ Clientes\ j\u00E1\ existente\n
+comment3.params=
+comment3.target=java.util.Set\ getCatClientes()
+comment3.text=\n\ Devolve\ o\ Catalogo\ de\ Clientes\n\ @return\ catClientes\ \ Set\ de\ Clientes\ da\ Class\ CatalogoClientes\n
+comment4.params=catClientes
+comment4.target=void\ setCatClientes(java.util.Set)
+comment4.text=\n\ Insere\ um\ Catalogo\ de\ Clientes\ na\ Class\ CatalogoClientes\n\ @param\ \ \ catClientes\ Set\ de\ clientes\ j\u00E1\ existente\n
+comment5.params=cli
+comment5.target=boolean\ contains(Cliente)
+comment5.text=\n\ Verifica\ se\ existe\ determinado\ cliente\ dentro\ do\ Catalogo\n\ @param\ \ \ cli\ Cliente\ a\ analizar\n
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CatalogoProdutos()
+comment0.text=\n\ Construtor\ do\ Catalogo\ de\ Produtos\ vazio\n
+comment1.params=c
+comment1.target=CatalogoProdutos(CatalogoProdutos)
+comment1.text=\n\ Construtor\ do\ Catalogo\ de\ Produtos\ a\ partir\ de\ outro\ Catalogo\ de\ Produtos\n\ @param\ \ \ c\ \ \ Catalogo\ de\ Produtos\ j\u00E1\ existente\n
+comment2.params=catProds
+comment2.target=CatalogoProdutos(java.util.List)
+comment2.text=\n\ Construtor\ do\ Catalogo\ de\ Produtos(organizado)\ a\ partir\ de\ uma\ lista\ de\ Produtos\n\ @param\ \ \ catProds\ \ \ \ Lista\ de\ Produtos\ j\u00E1\ existente\n
+comment3.params=
+comment3.target=java.util.Set\ getCatProds()
+comment3.text=\n\ Devolve\ o\ Catalogo\ de\ Produtos\n\ @return\ catProds\ Set\ de\ Produtos\ da\ Class\ CatalogoProdutos\n
+comment4.params=catProds
+comment4.target=void\ setCatProds(java.util.Set)
+comment4.text=\n\ Insere\ um\ Catalogo\ de\ Produtos\ na\ Class\ CatalogoProdutos\n\ @param\ \ \ catProds\ \ \ \ Set\ de\ Produtos\ j\u00E1\ existente\n
+comment5.params=prod
+comment5.target=boolean\ contains(Produto)
+comment5.text=\n\ Verifica\ se\ existe\ determinado\ Produto\ dentro\ do\ Catalogo\n\ @param\ \ \ prod\ \ \ \ Produto\ a\ analizar\n
+comment6.params=vendas
+comment6.target=java.util.List\ prodsNC(java.util.List)
+comment6.text=\n\ Devolve\ uma\ lista\ de\ Produtos\ Nunca\ Comprados\ (Query\ 1)\n\ @param\ \ \ vendas\ \ Losta\ de\ vendas\ a\ analisar\n\ @return\ \ ret\ \ \ \ Lista\ de\ Produtos\ Nunca\ Comprados\n
+numComments=7

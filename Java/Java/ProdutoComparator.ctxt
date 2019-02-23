@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=c1\ c2
+comment0.target=int\ compare(Produto,\ Produto)
+comment0.text=\n\ Comparador\ de\ Produto\ (alfabeticamente)\n\ @param\ \ \ c1\ \ Primeiro\ Produto\ a\ comparar\n\ @param\ \ \ c2\ \ Segundo\ Produto\ a\ comparar\ \n
+numComments=1

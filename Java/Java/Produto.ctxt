@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Produto()
+comment0.text=\n\ Construtor\ de\ Produto\ vazio\n
+comment1.params=produto
+comment1.target=Produto(java.lang.String)
+comment1.text=\n\ Construtor\ de\ Produto\ a\ partir\ de\ uma\ string\n\ @param\ \ \ produto\ \ \ \ \ String\ com\ o\ nome\ do\ produto\n
+comment2.params=c
+comment2.target=Produto(Produto)
+comment2.text=\n\ Construtor\ de\ Produto\ a\ partir\ de\ outro\ Produto\n\ @param\ \ \ c\ \ \ Produto\ j\u00E1\ existente\n
+comment3.params=
+comment3.target=java.lang.String\ getProduto()
+comment3.text=\n\ Devolve\ o\ Nome\ do\ Produto\n\ @return\ \ produto\ String\ com\ o\ nome\ do\ Produto\n
+comment4.params=
+comment4.target=Produto\ clone()
+comment4.text=\n\ Cria\ uma\ copia\ do\ Produto\n
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+comment5.text=\n\ Compara\ Produtos\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Transforma\ um\ Produto\ numa\ string\n
+numComments=7

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Faturacao()
+comment0.text=\n\ Construtor\ da\ Faturacao\ vazio\n
+comment1.params=fat
+comment1.target=Faturacao(Faturacao)
+comment1.text=\n\ Construtor\ da\ Faturacao\ a\ parte\ de\ outra\ Faturacao\n\ @param\ \ \ fat\ Faturacao\ j\u00E1\ existente\n
+comment2.params=catVendas
+comment2.target=Faturacao(java.util.List)
+comment2.text=\n\ Construtor\ da\ Faturacao\ a\ parte\ de\ uma\ Lista\ de\ Vendas\n\ @param\ \ \ catVendas\ \ \ Lista\ de\ Vendas\ j\u00E1\ existente\n
+comment3.params=
+comment3.target=java.util.List\ getFaturacao()
+comment3.text=\n\ Devolve\ uma\ lista\ de\ Vendas\n\ @return\ \ aux\ Lista\ de\ Vendas\ da\ Class\ Faturacao\n
+comment4.params=fat
+comment4.target=void\ setFaturacao(java.util.List)
+comment4.text=\n\ Insere\ uma\ Lista\ de\ Vendas\ na\ Class\ Faturacao\n\ @param\ \ \ fat\ \ \ \ \ Lista\ de\ Vendas\ j\u00E1\ existente\n
+comment5.params=prod
+comment5.target=java.util.Map\ vendasProduto(Produto)
+comment5.text=\n\ Devolve\ as\ compras\ efectuadas\ a\ certo\ Produto\ (Query\ 4)\n\ @param\ \ \ prod\ \ \ \ Produto\ a\ analisar\n\ @return\ \ mapVenda\ \ \ \ Map\ de\ Mes\ e\ Vendas\ onde\ s\u00E3o\ guardadas\ as\ vendas\ de\ um\ determinado\ produto,\ todos\ os\ meses\n
+comment6.params=
+comment6.target=double[]\ getFaturadoPMes()
+comment7.params=x
+comment7.target=java.util.Map\ prodsMaisVendEClis(int)
+numComments=8
